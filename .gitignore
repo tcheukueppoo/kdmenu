@@ -1,3 +1,4 @@
 stest
-dwm
+dmenu
 *.o
+.wfmux
